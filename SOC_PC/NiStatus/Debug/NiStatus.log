@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.cpp(9): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.cpp
+  Generating Code...
+MyForm.obj : error LNK2005: "int uv" (?uv@@3HA) already defined in main.obj
+MyForm.obj : error LNK2005: "int temperature" (?temperature@@3HA) already defined in main.obj
+MyForm.obj : error LNK2005: "int pH" (?pH@@3HA) already defined in main.obj
+C:\Users\Patrik\Desktop\NiStatus\Debug\NiStatus.exe : fatal error LNK1169: one or more multiply defined symbols found

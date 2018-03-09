@@ -1,0 +1,6 @@
+Help file that will be written later.
+
+/Notes/
+*Phosphorus measurements currently avaalable in pH range of <4;7>, other values LP- low phosphorus(<3%), MP- medium phosphorus(<11%), HP- high phosphorus(anything above)
+*Temperature is accurety in interval of <40;95>°C
+
